@@ -20,6 +20,8 @@ The usage of this project is simple. Users would just run the application and op
 
 The image above shows the pwa if you download the application. Something to mention here is that the downloading of the PWA is not avalible in all web browsers. Google and FireFox are two web browers I know that it works on. I have not tested it on other browsers. 
 
+Heroku Link: https://sheltered-springs-47285-3e65035f21f7.herokuapp.com
+
 ## Credits
 
 Thank you mdn web docs for helping me understand the database. I got stuck on retreving data from the database.
